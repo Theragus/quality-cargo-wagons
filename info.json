@@ -1,0 +1,1 @@
+{"name": "quality-cargo-wagons", "version": "0.1.0", "title": "Quality Cargo Wagons", "author": "Theragus", "factorio_version": "2.0", "dependencies": ["base >= 2.0.0"], "description": "Scales train cargo wagon capacity with quality tiers. Normal: Base (no bonus), Uncommon: +30%, Rare: +60%, Epic: +90%, Legendary: +150%"}
